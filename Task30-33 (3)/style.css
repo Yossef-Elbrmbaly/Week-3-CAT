@@ -1,0 +1,22 @@
+.smal{
+    list-style: none;
+}
+.parent{
+    width: 400px;
+}
+
+li{
+    background-color:#eeeeee ;
+    margin: 10px;
+    padding: 5px;
+}
+.big{
+    background-color: white;
+}
+.bigg{
+    background-color: white;
+    list-style-position: inside;
+}
+.java{
+    padding-left: 0px;
+}

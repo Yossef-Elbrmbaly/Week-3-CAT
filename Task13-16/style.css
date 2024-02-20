@@ -1,0 +1,44 @@
+.child .title{
+    color: red;
+}
+.parent span{
+    color: blue;
+}
+.parent p,.title{
+    color: green;
+}
+.One{
+    width: fit-content;
+    background-color: rgba(178, 15, 15, 0.855);
+    color: white;
+    max-width: 400px;
+    padding: 15px;
+}
+.Two{
+    width: fit-content;
+    background-color: rgba(178, 15, 15, 0.855);
+    color: white;
+    max-width: 400px;
+    padding: 15px;
+    margin-top: 15px;
+}
+.Three{
+    width: fit-content;
+    background-color: rgba(178, 15, 15, 0.855);
+    color: white;
+    max-width: 400px;
+    padding: 15px;
+    margin-top: 15px;
+
+}
+.Four{
+    width: fit-content;
+    background-color: rgba(178, 15, 15, 0.855);
+    color: white;
+    max-width: 400px;
+    padding: 15px;
+    margin-top: 15px;
+    max-height: 25px;
+    overflow: hidden;
+
+}

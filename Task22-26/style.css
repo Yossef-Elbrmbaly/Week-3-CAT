@@ -1,0 +1,50 @@
+div{
+    width: 400px;
+    border: 3px;
+    border-color: red;
+    border-style: solid;
+    padding: 10px;
+}
+
+div p{
+    border: inherit;
+    border-color: inherit;
+    border-style: inherit;
+    background-color: rgba(0, 0, 0, 0.115);
+    padding: inherit;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.Open-sans{
+    font-family: "Open Sans";
+    font-style: italic;
+}
+
+.Cairo{
+    font-family: "cairo";
+}
+
+.Jomhuria{
+    font-family:"Jomhuria" ;
+    margin-left: 30px;
+}
+
+html{
+    font-size: 20px;
+}
+
+.One{
+    font-size: 2.5rem;
+}
+
+.Two{
+    font-size: 2rem;
+    margin-left: 40px;
+}
+
+.Three{
+    font-size: 1.5rem;
+    margin-left: 80px;
+}
+

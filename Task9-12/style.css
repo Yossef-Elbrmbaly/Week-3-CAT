@@ -1,0 +1,57 @@
+.Shape1{
+    padding: 20px;
+    border: 5px solid red;
+    display:inline-block;
+    background-color: rgba(0, 0, 0, 0.155);
+    outline:5px solid ;
+    margin-right: 20px;
+}
+
+.Shape2{
+    padding: 20px;
+    border: 5px;
+    border-style: solid;
+    border-color: blue green;
+    display:inline-block;
+    background-color: rgba(0, 0, 0, 0.155);
+    outline:5px solid ;
+    margin-right: 20px;
+}
+
+.Shape3{
+    padding: 20px;
+    border: 5px;
+    border-style:dashed;
+    border-color:red green blue yellow;
+    display:inline-block;
+    background-color: rgba(0, 0, 0, 0.155);
+    outline:5px solid ;
+}
+
+.element-element-1{
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.079);
+    padding: 10px;
+    margin: 30px 10px;
+    border-left:5px rgb(227, 10, 97) solid ;
+    outline:10px rgba(0, 0, 0, 0.079) solid ;
+}
+
+.element-element-2{
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.079);
+    padding: 10px;
+    margin: 30px 10px;
+    border-left:5px rgb(227, 10, 97) solid ;
+    outline:10px rgba(0, 0, 0, 0.079) solid ;
+    visibility: hidden;
+}
+
+.element-element-3{
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.079);
+    padding: 10px;
+    margin: 30px 10px;
+    border-left:5px rgb(5, 161, 104) solid ;
+    outline:10px rgba(0, 0, 0, 0.079) solid ;
+}

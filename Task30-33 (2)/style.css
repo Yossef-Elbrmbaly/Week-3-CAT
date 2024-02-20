@@ -1,0 +1,54 @@
+
+.Two{
+    background-color: #eeeeee;
+    width: 400px;
+    border: 3px;
+    padding: 15px;
+    border-color: #f44336 #2196f3;
+    border-style: solid;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.top-left{
+    background-color:#2196f3 ;
+    padding: 1px 8px;
+    top: 50px;
+    color: white;
+    border-right: 2px solid #f44336 ;
+    position: absolute;
+    top: -10px;
+    right: 418px;
+    
+}
+
+.bottom-left{
+    background-color:#2196f3 ;
+    padding: 1px 8px;
+    top: 50px;
+    color: white;
+    border-right: 2px solid #f44336 ;
+    position: absolute;
+    top: 94px;
+    right: 418px;
+}
+.top-right{
+    background-color:#2196f3 ;
+    padding: 1px 8px;
+    top: 50px;
+    color: white;
+    border-left: 2px solid #f44336 ;
+    position: absolute;
+    top: -10px;
+    right: -13px;
+}
+.bottom-right{
+    background-color:#2196f3 ;
+    padding: 1px 8px;
+    top: 50px;
+    color: white;
+    border-left: 2px solid #f44336 ;
+    position: absolute;
+    top: 94px;
+    right: -13px;
+}
